@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecordCall</string>
+    <string name="audio_source">Select the audio source to record from during calls</string>
+    <string name="record_file_format">Select the file format to use for call recordings</string>
+</resources>
